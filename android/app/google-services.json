@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483939051115",
+    "project_id": "cineconnect-tv-shalmon",
+    "storage_bucket": "cineconnect-tv-shalmon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483939051115:android:3d1d7dd169015461d0732e",
+        "android_client_info": {
+          "package_name": "com.example.cineconnect_tv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOOQl5seh8PAc5meuNwDRHtPWOuNv0IPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
